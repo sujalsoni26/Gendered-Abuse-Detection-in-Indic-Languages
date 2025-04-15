@@ -1,0 +1,4 @@
+# Ignore Keras model and cache files
+*.keras
+.keras/
+*.zip

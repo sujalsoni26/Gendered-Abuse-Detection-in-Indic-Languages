@@ -1,0 +1,21 @@
+# Core Libraries
+torch>=1.10.0
+transformers>=4.24.0
+scikit-learn>=1.0.2
+numpy>=1.21.0
+pandas>=1.3.5
+matplotlib>=3.5.1
+seaborn>=0.11.2
+tqdm>=4.62.3
+
+# Text Preprocessing
+emoji>=1.6.3
+regex>=2021.11.10
+nltk>=3.6.7
+
+# For Jupyter Notebooks
+notebook>=6.4.8
+ipykernel>=6.6.1
+
+# Optional for GPU/Colab
+sentencepiece>=0.1.96
